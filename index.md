@@ -11,22 +11,24 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # 关于我们
+* 我们是一群在网络上彼此服侍的基督徒； 
+* 我们相信心灵和诚实是敬拜上帝的方式； 
+* 我们努力福音可以最大程度地传给所有需要的人； 
 
 # 信仰告白
 
 # 联系我们
 
-* 网站： http://www.jidujiaohui.com
-* 微信群 Wechat: 彼岸 & 彼岸吗哪
-* 电报频道 Telegram Channel: 彼岸在线
+* [**彼岸在线网站** www.jidujiaohui.com](http://www.jidujiaohui.com)
+* **微信群** Wechat: 彼岸 & 彼岸吗哪
+* **电报频道** Telegram Channel: 彼岸在线
 
 
 
-## Header 2
+## 唐崇荣牧师谈人生侍奉的优先次序
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+>在我一生的侍奉中，首先是爱上帝，其次是爱教会，第三是爱他人，第四才是爱自己的家庭。
+>我记念上帝的家，上帝就记念我的家。
 
 ### Header 3
 
