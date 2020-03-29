@@ -15,10 +15,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # 信仰告白
 
 # 联系我们
-Telegram Chanel: 彼岸在线
+
+* 网站： http://www.jidujiaohui.com
+* Wechat: 彼岸 & 彼岸吗哪
+* Telegram Chanel: 彼岸在线
 
 
-## Header 2 信仰告白 
+
+## Header 2
 
 > This is a blockquote following a header.
 >
