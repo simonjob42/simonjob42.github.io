@@ -10,14 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# 关于我们
+## 关于我们
 * 我们是一群在网络上彼此服侍的基督徒； 
 * 我们相信心灵和诚实是敬拜上帝的方式； 
 * 我们努力福音可以最大程度地传给所有需要的人； 
 
-# 信仰告白
+## 信仰告白
 
-# 联系我们
+## 联系我们
 
 * [**彼岸在线网站** www.jidujiaohui.com](http://www.jidujiaohui.com)
 * **微信群** Wechat: 彼岸 & 彼岸吗哪
