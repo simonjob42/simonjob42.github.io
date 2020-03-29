@@ -17,8 +17,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # 联系我们
 
 * 网站： http://www.jidujiaohui.com
-* Wechat: 彼岸 & 彼岸吗哪
-* Telegram Chanel: 彼岸在线
+* 微信群 Wechat: 彼岸 & 彼岸吗哪
+* 电报频道 Telegram Channel: 彼岸在线
 
 
 
