@@ -16,7 +16,9 @@ layout: default
 ---
 
 * [**彼岸在线网站** www.jidujiaohui.com](http://www.jidujiaohui.com)
+* [**主日崇拜直播** bian.church.live]  (http://bian.church.live)
 * **微信群** Wechat: 彼岸 & 彼岸吗哪
+* **YouTube频道** ：[彼岸在线] （https://www.youtube.com/channel/UCfGb6zIQ9Fwu9MdlF2B4EgA) 
 * **电报频道** Telegram Channel: 彼岸在线
 
 
